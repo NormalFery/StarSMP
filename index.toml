@@ -46,11 +46,6 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "a3521ad8a9a87d681ca1d50b10018f70e4542037faa4f50c5c88c4275b839e8a"
-metafile = true
-
-[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "ec59a461cbe72e6013f814b29b98817ca9e294ae4e3d401788134fec16cd693e"
 metafile = true
@@ -221,6 +216,11 @@ hash = "f2078c17a23e1fdb39a871822401b60436d3638dcf0db4a3dcea69ec9d9e43dc"
 metafile = true
 
 [[files]]
+file = "mods/open-simple-frames.pw.toml"
+hash = "c3eb4cad7bf7f80ee202280d68b53ad5e2092cefa212e73811a4af73e8abcf4e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -236,6 +236,11 @@ hash = "d2d8c67c4dfebf6c74636d9f2ddec666dff589604dde7e4fc6bdabaea8c84397"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "a8e48a0dadfaa8492f5e46ed3555dcaa2f6cb15bf7b7819fef018ec3e60d3706"
+metafile = true
+
+[[files]]
+file = "mods/reframed.pw.toml"
+hash = "15de3358bbe563eadb552cdceda3ffb5c562ea0b2fbef3065042264e2e4862b0"
 metafile = true
 
 [[files]]
