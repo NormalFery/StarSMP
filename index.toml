@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "fee4848b1eec519d8480155166673d054fec75f35c32ffa4d203eb9cc0721e56"
+hash = "9672d7081cb8bfaae7c640c2b93b12ee05de9e907b73d21954a5be6a655fd806"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "11d87a508d470ea5c25ef32a0571d7535bbd4d1173c193ad091ff4d39a9f5988"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "d9fbc020d969d351db65cfc6e66d16c8dc0bbc2b599bcf1b890044efdd152c6e"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "bca8c413d63d28cafca67068ba94e08b13881259c63ebea58763512b456743e5"
+hash = "8d93d1db086d63d10edb0a3ad6926aeb6e6aab8985ff3a7eac1ec313ebce4420"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "5af223708a6c66dfdae0da6f37d8604ab14a645af4398f4fdf5922f4c980e1fe"
+hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
@@ -314,19 +314,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
 metafile = true
-
-[[files]]
-file = "testcommit/cardinal-components-api-5.2.2.jar"
-hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
-
-[[files]]
-file = "testcommit/incendium.jar"
-hash = "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
-
-[[files]]
-file = "testcommit/nullscape.jar"
-hash = "e8fb6962e67da4a01743ea7065082e8fc6a01f933fcfc1bc4b093a252d134619"
-
-[[files]]
-file = "testcommit/terralith.jar"
-hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"

@@ -1,6 +1,6 @@
 name = "Axes Are Weapons"
 filename = "AxesAreWeapons-1.7.3-fabric-1.20.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/dQUnRwht/AxesAreWeapons-1.7.3-fabric-1.20.2.jar"

@@ -1,7 +1,13 @@
-name = "nullscape"
-filename = "nullscape.jar"
+name = "Nullscape"
+filename = "Nullscape_1.20.x_v1.2.7.jar"
+side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/NormalFery/StarSMP/main/testcommit/nullscape.jar"
-hash-format = "sha256"
-hash = "e8fb6962e67da4a01743ea7065082e8fc6a01f933fcfc1bc4b093a252d134619"
+url = "https://cdn.modrinth.com/data/LPjGiSO4/versions/IGSIk1BM/Nullscape_1.20.x_v1.2.7.jar"
+hash-format = "sha1"
+hash = "7084e5730522809e7f4005d2c287a9ffccf42acd"
+
+[update]
+[update.modrinth]
+mod-id = "LPjGiSO4"
+version = "IGSIk1BM"
