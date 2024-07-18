@@ -31,6 +31,11 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "11d87a508d470ea5c25ef32a0571d7535bbd4d1173c193ad091ff4d39a9f5988"
+metafile = true
+
+[[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
 hash = "5237097e7a65c3966ceb7107333ec65ecd41e6ba689acd740b144972cd0cb5da"
 metafile = true
@@ -151,8 +156,8 @@ hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -193,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
 metafile = true
 
 [[files]]
@@ -261,11 +261,6 @@ hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "ce3e958a06f4c421098fc7b7f2202198c9d6e5db19da105f9fa43736e84e40a9"
 metafile = true
@@ -304,3 +299,19 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
 metafile = true
+
+[[files]]
+file = "testcommit/cardinal-components-api-5.2.2.jar"
+hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
+
+[[files]]
+file = "testcommit/incendium.jar"
+hash = "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
+
+[[files]]
+file = "testcommit/nullscape.jar"
+hash = "e8fb6962e67da4a01743ea7065082e8fc6a01f933fcfc1bc4b093a252d134619"
+
+[[files]]
+file = "testcommit/terralith.jar"
+hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
