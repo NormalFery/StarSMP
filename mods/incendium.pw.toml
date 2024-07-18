@@ -1,0 +1,7 @@
+name = "incendium"
+filename = "incendium.jar"
+
+[download]
+url = "https://raw.githubusercontent.com/NormalFery/StarSMP/main/testcommit/incendium.jar"
+hash-format = "sha256"
+hash = "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"

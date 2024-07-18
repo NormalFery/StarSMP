@@ -1,0 +1,7 @@
+name = "nullscape"
+filename = "nullscape.jar"
+
+[download]
+url = "https://raw.githubusercontent.com/NormalFery/StarSMP/main/testcommit/nullscape.jar"
+hash-format = "sha256"
+hash = "e8fb6962e67da4a01743ea7065082e8fc6a01f933fcfc1bc4b093a252d134619"

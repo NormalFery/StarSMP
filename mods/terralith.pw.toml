@@ -1,0 +1,7 @@
+name = "terralith"
+filename = "terralith.jar"
+
+[download]
+url = "https://raw.githubusercontent.com/NormalFery/StarSMP/main/testcommit/terralith.jar"
+hash-format = "sha256"
+hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"

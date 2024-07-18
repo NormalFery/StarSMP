@@ -156,6 +156,11 @@ hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "d9fbc020d969d351db65cfc6e66d16c8dc0bbc2b599bcf1b890044efdd152c6e"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "bca8c413d63d28cafca67068ba94e08b13881259c63ebea58763512b456743e5"
 metafile = true
 
 [[files]]
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "5af223708a6c66dfdae0da6f37d8604ab14a645af4398f4fdf5922f4c980e1fe"
 metafile = true
 
 [[files]]
